@@ -33,6 +33,8 @@
 
     pip install -r requirements.txt
 
+---
+
 ## 🚀 การใช้งาน
    ```bash
     python term_project.py
