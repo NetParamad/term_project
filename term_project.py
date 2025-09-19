@@ -27,7 +27,6 @@ def decrypt_file(file_bytes, password):
     return decrypted_data
 
 @app.route("/", methods=["GET", "POST"])
-@app.route("/", methods=["GET", "POST"])
 def index():
     message = ""
     if request.method == "POST":

@@ -25,9 +25,8 @@
     git clone <your-repo-url>
     cd <your-project-folder>
 
-3.	สร้าง Virtual Environment และติดตั้ง Dependencies
+3.	สร้าง Virtual Environment และติดตั้ง Dependencies 
     python3 -m venv .venv
-
     source .venv/bin/activate       # macOS / Linux
     .venv\Scripts\activate          # Windows
 
